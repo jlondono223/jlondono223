@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Oye! 👋 I'm Jason Londono, and I'm currently pursuing a Bachelor of Science in Computer Science at the University of New Hampshire. I'm passionate about all things related to software development, with a particular focus on C++ and Go.
+Oye! 👋 I'm Jason Londono, and I'm currently pursuing a Bachelor of Science in Computer Science at the University of New Hampshire. I'm passionate about all things related to software development, with a particular focus on C and Go.
 
 ## About Me
 
